@@ -1,0 +1,10 @@
+ultralytics>=8.0.0
+torch>=2.1
+torchvision>=0.16
+numpy
+pillow
+opencv-python
+fastapi
+uvicorn[standard]
+python-multipart
+requests
