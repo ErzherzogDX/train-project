@@ -4,6 +4,8 @@ torchvision>=0.16
 numpy
 pillow
 opencv-python
+pyyaml
+matplotlib
 fastapi
 uvicorn[standard]
 python-multipart

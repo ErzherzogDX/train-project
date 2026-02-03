@@ -1,0 +1,11 @@
+seed: 42
+data_yaml: data_raw/data.yaml
+base_model: yolov8n.pt
+epochs: 10
+imgsz: 640
+batch: 16
+device: auto
+conf: 0.25
+iou: 0.7
+project: runs
+name: baseline
